@@ -1,18 +1,20 @@
 # Hi there 👋
 
 - 😊 My name is <strong>I Dewa Gede Mahadi Saputra</strong>
-- 🔭 I’m currently studying at ITB Stikom Bali '19
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: All social media => @dodepersie
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently studying at <strong>ITB Stikom Bali</strong>
+- 🌱 I’m currently learning <strong>ReactJS</strong>
+- 📫 How to reach me: <strong>[@dodepersie](mailto:dodepersie@gmail.com)</strong>
+- 😄 Pronouns: <strong>he/him</strong>
 - ⚡ Fun fact: <strong>I do what I want to do</strong>
 
-# Github Stats
+### Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=highcontrast&show_icons=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />
-  <br />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=highcontrast&show_icons=true&count_private=true" />
+  &nbsp;
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />
+  <br /><br />
+  <a href="https://instagram.com/dodepersie" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/DodePersie" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <img src="https://komarev.com/ghpvc/?username=dodepersie" />
 </p>  
 
