@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm I Dewa Gede Mahadi Saputra
+
+- 🔭 I’m currently studying on ITB Stikom Bali
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me: All social media => @dodepersie
+- 😄 Pronouns: Dode
+- ⚡ Fun fact: I do what I want to do
 
 <!--
 **dodepersie/dodepersie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
