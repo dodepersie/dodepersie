@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 😊 My name is <strong>I Dewa Gede Mahadi Saputra</strong>
-- 🔭 I’m currently studying on ITB Stikom Bali '19
+- 🔭 I’m currently studying at ITB Stikom Bali '19
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: All social media => @dodepersie
 - 😄 Pronouns: He/Him
