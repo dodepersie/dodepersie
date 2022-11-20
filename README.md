@@ -2,7 +2,7 @@
 
 - 😊 My name is <strong>I Dewa Gede Mahadi Saputra</strong>
 - 🔭 I’m currently studying at <strong>ITB Stikom Bali</strong>
-- 🌱 I’m currently learning <strong>ReactJS</strong>
+- 🌱 I’m currently learning <strong>NextJS</strong> & <strong>ReactJS</strong>
 - 📫 How to reach me: <strong>[dodepersie@gmail.com](mailto:dodepersie@gmail.com)</strong>
 - 😄 Pronouns: <strong>he/him</strong>
 - ⚡ Fun fact: <strong>I do what I want to do</strong>
