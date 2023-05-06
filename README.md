@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 😊 My name is <strong>I Dewa Gede Mahadi Saputra</strong>
-- 🔭 I’m currently studying at <strong>ITB Stikom Bali</strong>
+- 🔭 I’m currently studying at <strong>ITB STIKOM Bali</strong> & <strong>HELP University Malaysia</strong>
 - 🌱 I’m currently learning <strong>NextJS</strong> & <strong>ReactJS</strong> & <strong>Laravel</strong>
 - 📫 How to reach me: <strong>[me@mahadisaputra.my.id](mailto:me@mahadisaputra.my.id)</strong> / IG: @mahadisptr
 - 😄 Pronouns: <strong>he/him</strong>
@@ -15,7 +15,7 @@
       &nbsp;
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />
       <br /><br />
-      <a href="https://instagram.com/dodepersie" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://instagram.com/mahadisptr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
       <a href="https://www.facebook.com/DodePersie" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
       <img src="https://komarev.com/ghpvc/?username=dodepersie" />
   </div>
