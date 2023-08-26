@@ -11,9 +11,9 @@
   <div>
     <br />
     <p align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=highcontrast&show_icons=true&count_private=true" />
+      [<img width="400" src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=highcontrast&show_icons=true&count_private=true" />
       &nbsp;
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />](https://github.com/dodepersie)
       <br /><br />
       <a href="https://instagram.com/mahadisptr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
       <a href="https://www.facebook.com/DodePersie" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
