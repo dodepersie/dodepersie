@@ -7,33 +7,11 @@
 - 😄 Pronouns: <strong>he/him</strong>
 - ⚡ Fun fact: <strong>I do what I want to do</strong>
 
-<details> <summary>Github Stats</summary>
-  <div>
-    <br />
-    <p align="center">
-      [<img width="400" src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=highcontrast&show_icons=true&count_private=true" />
-      &nbsp;
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact" />](https://github.com/dodepersie)
-      <br /><br />
-      <a href="https://instagram.com/mahadisptr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-      <a href="https://www.facebook.com/DodePersie" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-      <img src="https://komarev.com/ghpvc/?username=dodepersie" />
-  </div>
-  </p>  
-  
-</details>
+# Github Stats 🚀
 
-<!--
-**dodepersie/dodepersie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="dodepersie's Stats" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dodepersie&theme=tokyonight&hide_border=true" alt="dodepersie's Streak" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="dodepersie's Top Languages" width="400">
+<a href="https://instagram.com/mahadisptr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/DodePersie" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<img src="https://komarev.com/ghpvc/?username=dodepersie&style=for-the-badge" alt="Profile Views">
