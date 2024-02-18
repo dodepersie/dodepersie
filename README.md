@@ -79,7 +79,7 @@
 
 # Github Stats 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=tknzyy00&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="dodepersie's Stats" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tknzyy00&theme=tokyonight&hide_border=true" alt="dodepersie's Streak" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tknzyy00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="dodepersie's Top Languages" width="400">
-<img src="https://komarev.com/ghpvc/?username=tknzyy00&style=for-the-badge" alt="Profile Views">
+<img src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="dodepersie's Stats" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dodepersie&theme=tokyonight&hide_border=true" alt="dodepersie's Streak" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="dodepersie's Top Languages" width="400">
+<img src="https://komarev.com/ghpvc/?username=dodepersie&style=for-the-badge" alt="Profile Views">
