@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: TicTic Final Year Project
+- 🔭 I’m currently working on: Open to work 😊
 - 🌱 I’m currently learning: Laravel, NextJS, Angular
 - 👯 I’m looking to collaborate on: Open-source projects, startups, and side-projects
 - 📫 How to reach me: dodepersie@gmail.com
