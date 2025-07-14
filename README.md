@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Open to work 😊
-- 🌱 I’m currently learning: Laravel, NextJS, Angular
+- 🔭 I’m currently working on: #OpenToWork 😊
+- 🌱 My tech stacks are: Laravel, NextJS, ReactJS, Angular
 - 👯 I’m looking to collaborate on: Open-source projects, startups, and side-projects
-- 📫 How to reach me: dodepersie@gmail.com
+- 📫 How to reach me: mail@mahadisaputra.my.id / dodepersie@gmail.com
 
 ---
 
@@ -36,15 +36,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodepersie&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodepersie&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dodepersie&theme=transparent)
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mahadisaputra)
-[![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=wordpress)](https://mahadisaputra.my.id)
 
 ---
 
