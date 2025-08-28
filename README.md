@@ -1,11 +1,11 @@
 # Hi there, I'm I Dewa Gede Mahadi Saputra 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for building scalable applications and learning new technologies.
+Welcome to my GitHub profile! I'm a Social Media antusiast and a passionate Web Developer with a love for building scalable applications and learning new technologies.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: #OpenToWork 😊
-- 🌱 My tech stacks are: Laravel, NextJS, ReactJS, Angular
+- 🔭 I’m currently working as a Social Media Expert at MKM Bali @ Denpasar
+- 🌱 My tech stacks are: Laravel, NextJS, ReactJS, NuxtJS, Angular
 - 👯 I’m looking to collaborate on: Open-source projects, startups, and side-projects
 - 📫 How to reach me: mail@mahadisaputra.my.id / dodepersie@gmail.com
 
